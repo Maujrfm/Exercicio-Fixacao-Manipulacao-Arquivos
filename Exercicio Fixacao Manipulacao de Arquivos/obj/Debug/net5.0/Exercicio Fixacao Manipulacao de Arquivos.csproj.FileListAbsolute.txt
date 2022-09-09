@@ -1,0 +1,16 @@
+F:\ws-vs2019\Projetos\Exercicio Fixacao Manipulacao de Arquivos\Exercicio Fixacao Manipulacao de Arquivos\obj\Debug\net5.0\Exercicio Fixacao Manipulacao de Arquivos.GeneratedMSBuildEditorConfig.editorconfig
+F:\ws-vs2019\Projetos\Exercicio Fixacao Manipulacao de Arquivos\Exercicio Fixacao Manipulacao de Arquivos\obj\Debug\net5.0\Exercicio Fixacao Manipulacao de Arquivos.AssemblyInfoInputs.cache
+F:\ws-vs2019\Projetos\Exercicio Fixacao Manipulacao de Arquivos\Exercicio Fixacao Manipulacao de Arquivos\obj\Debug\net5.0\Exercicio Fixacao Manipulacao de Arquivos.AssemblyInfo.cs
+F:\ws-vs2019\Projetos\Exercicio Fixacao Manipulacao de Arquivos\Exercicio Fixacao Manipulacao de Arquivos\obj\Debug\net5.0\Exercicio Fixacao Manipulacao de Arquivos.csproj.CoreCompileInputs.cache
+F:\ws-vs2019\Projetos\Exercicio Fixacao Manipulacao de Arquivos\Exercicio Fixacao Manipulacao de Arquivos\bin\Debug\net5.0\Exercicio Fixacao Manipulacao de Arquivos.exe
+F:\ws-vs2019\Projetos\Exercicio Fixacao Manipulacao de Arquivos\Exercicio Fixacao Manipulacao de Arquivos\bin\Debug\net5.0\Exercicio Fixacao Manipulacao de Arquivos.deps.json
+F:\ws-vs2019\Projetos\Exercicio Fixacao Manipulacao de Arquivos\Exercicio Fixacao Manipulacao de Arquivos\bin\Debug\net5.0\Exercicio Fixacao Manipulacao de Arquivos.runtimeconfig.json
+F:\ws-vs2019\Projetos\Exercicio Fixacao Manipulacao de Arquivos\Exercicio Fixacao Manipulacao de Arquivos\bin\Debug\net5.0\Exercicio Fixacao Manipulacao de Arquivos.runtimeconfig.dev.json
+F:\ws-vs2019\Projetos\Exercicio Fixacao Manipulacao de Arquivos\Exercicio Fixacao Manipulacao de Arquivos\bin\Debug\net5.0\Exercicio Fixacao Manipulacao de Arquivos.dll
+F:\ws-vs2019\Projetos\Exercicio Fixacao Manipulacao de Arquivos\Exercicio Fixacao Manipulacao de Arquivos\bin\Debug\net5.0\ref\Exercicio Fixacao Manipulacao de Arquivos.dll
+F:\ws-vs2019\Projetos\Exercicio Fixacao Manipulacao de Arquivos\Exercicio Fixacao Manipulacao de Arquivos\bin\Debug\net5.0\Exercicio Fixacao Manipulacao de Arquivos.pdb
+F:\ws-vs2019\Projetos\Exercicio Fixacao Manipulacao de Arquivos\Exercicio Fixacao Manipulacao de Arquivos\obj\Debug\net5.0\Exercicio Fixacao Manipulacao de Arquivos.dll
+F:\ws-vs2019\Projetos\Exercicio Fixacao Manipulacao de Arquivos\Exercicio Fixacao Manipulacao de Arquivos\obj\Debug\net5.0\ref\Exercicio Fixacao Manipulacao de Arquivos.dll
+F:\ws-vs2019\Projetos\Exercicio Fixacao Manipulacao de Arquivos\Exercicio Fixacao Manipulacao de Arquivos\obj\Debug\net5.0\Exercicio Fixacao Manipulacao de Arquivos.pdb
+F:\ws-vs2019\Projetos\Exercicio Fixacao Manipulacao de Arquivos\Exercicio Fixacao Manipulacao de Arquivos\obj\Debug\net5.0\Exercicio Fixacao Manipulacao de Arquivos.genruntimeconfig.cache
+F:\ws-vs2019\Projetos\Exercicio Fixacao Manipulacao de Arquivos\Exercicio Fixacao Manipulacao de Arquivos\obj\Debug\net5.0\Exercicio Fixacao Manipulacao de Arquivos.csproj.AssemblyReference.cache

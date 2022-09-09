@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Exercicio Fixacao Manipulacao de Arquivos/1.0.0": {
+        "runtime": {
+          "Exercicio Fixacao Manipulacao de Arquivos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio Fixacao Manipulacao de Arquivos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
